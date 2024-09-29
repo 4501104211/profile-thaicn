@@ -1,0 +1,15 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 400px;
+}
+.u-section-1 .u-image-1 {
+  width: 376px;
+  height: 376px;
+  background-image: url("https://scontent.fsgn2-4.fna.fbcdn.net/v/t1.6435-9/62190684_2399797910251657_4016466343623655424_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=53a332&_nc_ohc=2_h9pbvGsTgQ7kNvgEP8VrE&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=ACITu_qI4naky3eyBTxbXa2&oh=00_AYDvyjyLvnNr3ukRs59DSllgT-FnTnvNw8YvCsqecDkd4w&oe=6715EC72");
+  background-position: 50% 50%;
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 0.3;
+  margin: 20px auto 0;
+}
